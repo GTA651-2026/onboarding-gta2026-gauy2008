@@ -28,10 +28,10 @@ Analyse en temps réel. Réponse immédiate au questions. Économie du salaire d
 
 ## 5. Risque principal et mitigation concrete
 
-Leak les données. Perte de rôle junior
+Leak les données. Perte de rôle junior. POur mitiger il faudra entrainer le modèle sécuriser les accès et créer des poste pour avoir un bon pipeline d'employé
 
 ## 6. Condition de succes pour votre organisation
 
-Formation sur le changement!
+Formation sur le changement. Créer une culture saine sur l'utilisation de L'AI dans l'entreprise
 
 > **Rappel :** mettez a jour `ai-usage.md` a la racine du depot, meme si vous n'avez utilise aucun outil IA.
